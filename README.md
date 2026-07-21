@@ -1,29 +1,7 @@
-## Hi there 👋
 
-**kritan560/kritan560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h1 align="center">Hi there, I'm Kritan Shrestha 👋</h1>
-<h3 align="center">Founder of CashlessLogic | Software Engineer | MSCIT Student</h3>
-
-<p align="center">
-  Building scalable SaaS platforms, optimizing multi-tenant databases, and crafting secure, modern web applications.
-</p>
-
-<br/>
 
 ### 👨‍💻 About Me
-- 🏢 Founder & Developer at **CashlessLogic**, managing end-to-end architecture from backend systems to frontend execution.
+- 🏢 Full Stack Developer, managing end-to-end architecture from backend systems to frontend execution.
 - 🎓 Currently pursuing my Master of Science in Information Technology (MSCIT).
 - ⚙️ Deeply focused on the modern web stack, specifically building complex applications with **TypeScript, Next.js, and Auth.js**.
 - 🛠️ Architecting backend services using **NestJS, Express, and Socket.io** for real-time, event-driven architectures.
