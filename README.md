@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **kritan560/kritan560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -60,4 +59,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=kritan560&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritan560&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
--->
